@@ -1,0 +1,21 @@
+ body{
+ 	background-color: violet;
+ }
+h1 {
+	font-size: 40px; color: teal;
+}
+h2{
+	font-size: 25px; color: midnightblue;
+}
+.k{
+	font-size: 60px;
+}
+.full{
+	text-transform: uppercase;
+}
+.k.full{
+	color: turquoise;
+}
+h2 span{
+	color: peru;
+}
