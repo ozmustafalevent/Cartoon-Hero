@@ -1,0 +1,58 @@
+body{
+	margin: 0px;
+	font-family: 'Libre Bodoni', serif;
+	background-color: lightslategray;
+	line-height: 25px;
+}
+header{
+	background-color: LightSlateGray;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+header h1{
+	color: RGB(0, 33, 71);
+	font-size: 30px;
+}
+header img{
+	width: 800px;
+
+}
+header p{
+	font-style: italic;
+}
+main{
+	text-align: center;
+	padding-top: 10px;
+	background-color: Gainsboro;
+	margin: 0;
+}
+main h2{
+	font-size: 35px;
+
+}
+main img{
+	width: 975px;
+}
+p.caption{
+	font-style: italic;
+}
+.uzun{
+	padding-top: 30px;
+}
+footer{
+	font-size: 10px;
+	margin: 0px;
+	text-align: right;
+
+}
+a{
+	color: black;
+}
+a:hover{
+	color: gainsboro;
+	opacity: 0.5;
+}
+footer p{
+	margin: 0px;
+}
